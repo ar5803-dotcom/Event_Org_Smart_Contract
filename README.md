@@ -1,6 +1,5 @@
 # Event_Org_Smart_Contract
 
-# EventOrg Smart Contract
 EventOrg is a simple Ethereum smart contract written in Solidity for managing events and ticket sales on the Ethereum blockchain. With EventOrg, event organizers can create events and sell tickets, while users can buy tickets and transfer them to others.
 
 # Features
